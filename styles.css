@@ -441,6 +441,7 @@ body {
 }
 
 .date-of-birth {
+    text-align: center;
     font-weight: bold;
     left: 666px;
     width: 86px;
